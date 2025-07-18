@@ -7,7 +7,7 @@ We take security seriously and provide security updates for the following versio
 | Version | Supported          | Status |
 | ------- | ------------------ | ------ |
 | 1.0.x   | :white_check_mark: | Current stable release |
-| 0.9.x   | :white_check_mark: | Previous stable (until March 2025) |
+| 0.9.x   | :white_check_mark: | Previous stable (until July 2025) |
 | 0.8.x   | :x:                | End of life |
 | < 0.8   | :x:                | End of life |
 
